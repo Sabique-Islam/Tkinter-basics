@@ -5,7 +5,7 @@ import PyPDF2 as pd
 def openFile():
     filename = filedialog.askopenfilename(
         title="Open PDF file",
-        initialdir=r"C:\Users\Dell\Desktop\tkinter\pdf-text-extractor",
+        initialdir=r"C:\Users\Dell\Desktop\tkinter\pdf-text-extractor", #change directory if an error is encountered
         filetypes=[('PDF files', "*.pdf")]
     )
     filename_label.configure(text=filename)
@@ -22,7 +22,8 @@ def openFile():
 
 root = tk.Tk()
 root.title("PDF Text Extractor")
-root.geometry("400x500")
+root.state("zoomed") #for default full screen
+#root.geometry("400x500")
 
 bg_color = "#333333"
 text_color = "#ffffff"
