@@ -1,0 +1,12 @@
+{
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "1. **Interactive 3D Art Gallery (VR Compatible)**: Create a virtual reality art gallery using ...\n\n2. **AI-Powered Music Composer**: Develop an AI-powered music composer that generates unique ...\n\n... (other ideas)"
+            }
+        }
+    ]
+}
+
+var[choices][0]["message"]["content"] points at the prompt answers
