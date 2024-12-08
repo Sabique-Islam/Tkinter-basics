@@ -1,5 +1,5 @@
 # Project Idea Generator
-Uses **`mistralai/mistral-7b-instruct-v03`**, an AI model, to generate the project ideas.
+Uses **`mistralai/mistral-7b-instruct-v0.3`**, an AI model, to generate the project ideas.
 
 ## Interface
 ![Interface](sample/image.png)
@@ -22,7 +22,7 @@ python main.py
 This application requires an API key to interact with the NVIDIA API that provides access to `mistralai/mistral-7b-instruct-v0.3`. Follow these steps to set it up:
 
 1. **Generate an API Key:**
-   - [Click here](https://build.nvidia.com/mistralai/mistral-7b-instruct-v0).
+   - [Click here](https://build.nvidia.com/mistralai/mistral-7b-instruct-v03).
    - Click on `Build with this NIM`.
    - Complete the login process.
    - Generate a new API key and copy it.
