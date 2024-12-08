@@ -1,5 +1,5 @@
 # Project Idea Generator
-Uses **`mistralai/mistral-7b-instruct-v0.3`**, an AI model, to generate the project ideas.
+Uses **`mistralai/mistral-7b-instruct-v03`**, an AI model, to generate the project ideas.
 
 ## Interface
 ![Interface](sample/image.png)
