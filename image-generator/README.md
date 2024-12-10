@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Set Up Your API Key
-This application requires an API key to interact with the NVIDIA API that provides access to `nvidia/consistory`. Follow these steps to set it up:
+This application requires an API key to interact with the NVIDIA API that provides access to `https://ai.api.nvidia.com/v1/genai/nvidia/consistory`. Follow these steps to set it up:
 
 1. **Generate an API Key:**
    - [Click here](https://build.nvidia.com/nvidia/consistory).
