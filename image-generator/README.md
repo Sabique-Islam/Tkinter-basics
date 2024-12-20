@@ -1,4 +1,4 @@
-# Project Idea Generator
+# Image Generator
 Uses **`nvidia/consistory`**, an AI model, to generate images based on user prompt.
 
 ## Interface
