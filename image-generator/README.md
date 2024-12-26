@@ -35,7 +35,7 @@ This application requires an API key to interact with the NVIDIA API that provid
      API_KEY=your_api_key
      ```
 
-     Replace `your_api_key` with the your API key.
+     Replace `your_api_key` with your API key.
 
 ## Resources
 - CustomTkinter [documentation](https://customtkinter.tomschimansky.com/documentation/).
